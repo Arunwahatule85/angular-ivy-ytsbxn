@@ -46,7 +46,7 @@ ngOnInit() {
                   {
                     type: 'radar',
                     // label: 'DataCombination',
-                    data: [10,10,10,20],
+                    data: [100,100,100,200],
                     backgroundColor: 'rgba(37, 116, 169, 0.7)',
                     borderColor: 'rgba(37, 116, 169, 0.6)',
                     pointBorderColor: 'rgba(37, 116, 169, 1.5)',
